@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>fontawesome.otf</file>
+        <file>fontawesome.ttf</file>
+        <file>logo.png</file>
+        <file>Card.qml</file>
+        <file>Button.qml</file>
+        <file>MaterialIcons-Regular.ttf</file>
+    </qresource>
+</RCC>
